@@ -15,3 +15,8 @@ print("=============")
 print("Data Tipe Integer")
 print("=============")
 print(123+456) # Data bertipe integer, akan menghasilkan penjumlahan 123 + 456 = yakni 579
+
+#Float
+print("=============")
+print("Tipe data float")
+print("=============")

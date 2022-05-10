@@ -5,9 +5,9 @@
 2. 
 3. 
 4. 
-### Band Name Generator
+### Split Bill Calculator
 
-### Band Name Generator Code
+### Split Bill Calculator Code
 ```
 kodingan kamu disini
 ```
