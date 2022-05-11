@@ -28,6 +28,7 @@ print("Your band name is "+city+" "+pet)
 ```
 5. Make sure the input cursor show on a new line.
 Dengan menambahkan ``` \n ```
+
 ### Band Name Generator Code
 ```
 print("Welcome to Band Name Generator")
