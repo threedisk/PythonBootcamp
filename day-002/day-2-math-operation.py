@@ -1,0 +1,7 @@
+print("Akan menghasilkan hasil yang berbeda") 
+print("===========")
+print("print(3*3+3/3-3)")
+print(3*3+3/3-3)
+print("===========")
+print("print(3*(3+3)/3-3)")
+print(3*(3+3)/3-3)
