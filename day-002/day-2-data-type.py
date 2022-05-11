@@ -6,8 +6,8 @@ print("=============")
 print("Data Tipe String")
 print("=============")
 print("123"+"456") # Data tersebut adalah data string, dikarenakan ada petik dua "" , jadi operasi didepan adalah seperti concatenate yakni menghasilkan 123456
-print("Hello"[0]) # Digunakan untuk membaca H saja pada print 
-print("Hello"[4]) # Digunakan untuk membaca O saja pada print
+print("Hello"[0]) # Digunakan untuk membaca index array H saja pada print 
+print("Hello"[4]) # Digunakan untuk membaca index array O saja pada print
 
 
 #Integer
@@ -20,3 +20,9 @@ print(123+456) # Data bertipe integer, akan menghasilkan penjumlahan 123 + 456 =
 print("=============")
 print("Tipe data float")
 print("=============")
+print("Data float adalah data yang terdiri dari desimal contoh 3.14")
+
+print("=============")
+print("Tipe data Boolean")
+print("=============")
+print("Cuma ada dua nilai yaitu TRUE dan FALSE")
