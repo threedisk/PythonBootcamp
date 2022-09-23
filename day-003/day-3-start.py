@@ -10,6 +10,8 @@ if height >= 120: # Jika tinggi badan lebih dari atau sama dengan 120
     if (age >= 12 and age <=18 ) :
         bill=7
         print("Please pay 7$")
+    elif (age >=45 and age <=55):
+        print("Everthing is going to be okay. Have a free ride on us")
     elif age < 12 :
         bill=5
         print("Please pay 5$")
