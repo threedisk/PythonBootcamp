@@ -19,7 +19,7 @@ V = merge_name.count('v')
 first_digit = int(T+R+U+E)
 second_digit = int(L+O+V+E)
 love_score = str(first_digit) + str(second_digit)
-print (f"Love score {love_score}")
+#print (f"Love score {love_score}")
 int_love_score = int(love_score)
 if int_love_score < 10 or int_love_score > 90:
   print (f"Your score is {int_love_score}, you go together like coke and mentos")
