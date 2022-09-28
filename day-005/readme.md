@@ -11,15 +11,18 @@ for fruit in fruits:
 ```
 * Range 
 ```python
-student_heights = input("Input a list of student heights ").split()
-
-for n in range(0, len(student_heights)):
-  student_heights[n] = int(student_heights[n])
+for number in range(a,b):
+  print(number)
 ```
+dimana a merupakan nilai awal dari range dan b merupakan nilai akhir dari range
+```python
+for number in range(1,10):
+  print(number)
+```
+Hasilnya adalah `1,2,3,4,5,6,7,8,9`
+
 * Code Block
-### Band Name Generator
-### Band Name Generator Code
 
-```
-Taruh kode disini
-```
+### Code Exercise or Challenge
+* [Fizzbuzz Code Challenge](./day-5-4-exercise.py)
+* [Password Generator](./password-generator-start.py)
