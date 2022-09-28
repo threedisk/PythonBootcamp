@@ -7,9 +7,10 @@
 
 
 
-### Adventure Game
-### Adventure Game Code 
-
-```
-Taruh kode disini
-```
+### Code Exercise and Challenge
+* [Roller Coaster Machine](./day-3-start.py)
+* [BMI Calculator](./day-3-2-exercise.py)
+* [Leap Year Detector / Penghitung Tahun Kabisat](./day-3-3-leap-year.py)
+* [Pizza Order](./day-3-4-pizza-order.py)
+* [Love Calculator](./day-3-7-love-calculator.py)
+* [Treasure Island](./day-3-8-treasure-island.py)

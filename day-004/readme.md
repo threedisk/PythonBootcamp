@@ -36,9 +36,8 @@ Hasil
 Tomatoes
 Celery
 ```
-### Band Name Generator
-### Band Name Generator Code
-
-```
-Taruh kode disini
-```
+### Code Exercise and Challenge
+* [Heads or Tails Randomizer](./day-4-1-exercise.py)
+* [Siapa yang traktir makan Randomizer](./day-4-2-exercise.py)
+* [Hide your treasure](./day-4-3-exercise.py)
+* [Jan-ken-pon / Rock Paper Scissors](./day-4-rock-paper-scissors-start.py)

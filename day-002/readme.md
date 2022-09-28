@@ -21,7 +21,7 @@ Digunakan untuk memaipulasi nilai
 F-String 
 Dengan menambahkan f didepan string maka akan menjadi lebih mudah dengan menambahkan tanda kurung kurawal dan variabelnya
 
-```
+```python
 score = 0
 height = 1.8 
 isWinning= True
@@ -35,7 +35,7 @@ print(f"Your score is {score},your height is {height},you are winning is {isWinn
 ### Split Bill Calculator
 
 ### Split Bill Calculator Code
-```
+```python
 #If the bill was $150.00, split between 5 people, with 12% tip.
 #Each person should pay (150.00 / 5) * 1.12 = 33.6
 #Format the result to 2 decimal places = 33.60
