@@ -1,10 +1,7 @@
-## Day 003
+## Day 010
 
 ### Yang dipelajari
 
-### Band Name Generator
-### Band Name Generator Code
 
-```
-Taruh kode disini
-```
+### Code Exercise / Code Challenge
+
