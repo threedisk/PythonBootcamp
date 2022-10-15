@@ -42,3 +42,5 @@
 ### Code Exercise / Code Challenge
 
 * [Function with inputs](./day-8-start.py)
+* [Paint Area Calculator](./day-8-1-exercise.py)
+* [Prime Number Checker](./day-8-2-exercise.py)
