@@ -24,7 +24,7 @@
     Hello Ngawi
     You from Tris
     ```  
-    Berbeda dengan keyword argument, jika posisi dibolak-balik argumentnya, asalkan keywordnya tetap maka akan memunculkan data yang benar seperti yang diminta.
+    Berbeda dengan keyword argument, jika posisi dibolak-balik argumentnya, asalkan keywordnya tetap maka akan memunculkan data yang benar seperti yang diminta. Seperti contoh dibawah ini
     ```python
     def greet_with_key(name,location):
         print(f"Hello {name}")
