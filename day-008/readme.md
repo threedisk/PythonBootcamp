@@ -44,3 +44,5 @@
 * [Function with inputs](./day-8-start.py)
 * [Paint Area Calculator](./day-8-1-exercise.py)
 * [Prime Number Checker](./day-8-2-exercise.py)
+* [Self-Exercise Cipher Text Part 1](./self-caesar-cipher-1.py)
+* [Cipher Text part 1](./caesar-cipher-1-end.py)
