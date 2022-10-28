@@ -16,7 +16,7 @@ def encrypt(text,shift):
 #TODO-1: Create a different function called 'decrypt' that takes the 'text' and 'shift' as inputs.
 
 def decrypt(cipher_text,shift):
-    cipher_text=input("Type your cipher text? ")
+    #cipher_text=input("Type your cipher text? ")
     plain_text=""
     for i in cipher_text:
         x = alphabet.index(i) - shift
