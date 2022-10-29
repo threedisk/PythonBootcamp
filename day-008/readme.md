@@ -46,3 +46,5 @@
 * [Prime Number Checker](./day-8-2-exercise.py)
 * [Self-Exercise Cipher Text Part 1](./self-caesar-cipher-1.py)
 * [Cipher Text part 1](./caesar-cipher-1-end.py)
+* [Self-Exercise Cipher Text Part 2](./self-caesar-cipher-2.py)
+* [Cipher Text part 2](./caesar-cipher-2-end.py)
