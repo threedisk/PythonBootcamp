@@ -1,6 +1,6 @@
 Ini adalah repository untuk program 100 Days of Code : The Complete Python Pro Bootcamp for 2022. Tidak diupdate tiap hari. Semoga bisa segera lanjut.
 ---
-Tracking Time
+Tracking Time /
 ---
 001 : 09 Mei 2022  
 002 : 11 Mei 2022  
@@ -9,9 +9,8 @@ Tracking Time
 005 :  
 006 :  
 007 :  
-008 :  
+008 : 29 Oktober 2022 
 009 :  
 010 :  
 
 ---
-PENDING UPDATE 
